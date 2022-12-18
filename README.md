@@ -1,4 +1,11 @@
-# todo
+# Todo VueJs
+
+## Projeto Todo List com Vue Js
+
+<div align="center">
+<img src="https://github.com/pierrialexander/Todo_VueJS/blob/main/todo_vue.png" width="700px" />
+</div>
+
 
 ## Project setup
 ```
@@ -9,21 +16,3 @@ npm install
 ```
 npm run serve
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
